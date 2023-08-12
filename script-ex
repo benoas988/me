@@ -1,0 +1,12 @@
+document.getElementById("home").addEventListener("click", function(event){
+      event.preventDefault();
+      window.location.href = "index-baru.html"
+  });
+  document.getElementById("port").addEventListener("click", function(event){
+      event.preventDefault();
+      window.location.href = "baru-p.html"
+  });
+  document.getElementById("tentang").addEventListener("click", function(event){
+      event.preventDefault();
+      window.location.href = "index-baru.html"
+  });
